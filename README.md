@@ -13,7 +13,7 @@ qb-spawn
 use lastest QBCore release
 
 ## Screenshot
-![General](https://imgur.com/undefined.png)
+![General](https://imgur.com/undefined)
 
 ## CFG (just add this)
 ensure qb-multicgaracter
